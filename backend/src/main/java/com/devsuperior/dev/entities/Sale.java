@@ -50,8 +50,8 @@ public class Sale {
 		return visited;
 	}
 
-	public void setVisited(Integer sisited) {
-		this.visited = sisited;
+	public void setVisited(Integer visited) {
+		this.visited = visited;
 	}
 
 	public Integer getDeals() {
